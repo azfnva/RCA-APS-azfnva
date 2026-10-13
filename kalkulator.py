@@ -16,3 +16,4 @@ class Kalkulator:
         if b == 0:
             raise ValueError("Divider by zero!")
         return a / b
+#ha
