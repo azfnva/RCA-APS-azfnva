@@ -14,5 +14,5 @@ class Kalkulator:
     @staticmethod
     def bagi(a, b):
         if b == 0:
-            raise ValueError("Divider by zero!")
+            raise ValueError("Division by zero!")
         return a / b
